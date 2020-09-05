@@ -8,6 +8,7 @@ import pandas as pd
 
 app = dash.Dash()
 
+server = app.server
 nsdq = pd.read_csv('companylist.csv')
 nsdq.set_index('Symbol',inplace = True)
 options = []
