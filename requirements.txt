@@ -31,9 +31,6 @@ lazy-object-proxy==1.4.3
 lxml==4.5.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
-mkl-fft==1.0.6
-mkl-random==1.0.1.1
-mkl-service==1.0.6
 multitasking==0.0.9
 numpy 
 pandas 
